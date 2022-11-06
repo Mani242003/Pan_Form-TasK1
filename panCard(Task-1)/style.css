@@ -1,0 +1,164 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #213055;
+
+    
+
+}
+
+.topHeading{
+    margin: 2%;
+    padding-left: 2%;
+    color: beige;
+    border-bottom: 3px solid #027994;
+}
+
+
+.formDiv{
+  width: 80%;
+  height: 100%;
+  
+   
+}
+
+.tableDiv1{
+    margin-left: 12%;
+    width: 100%;
+    height: 100px;
+    background-color: #f6e58d;
+    opacity: 0.7;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.tabelTop1{
+    width: 100%;
+    height: 100%;
+    padding-left: 25px;
+   
+}
+
+#selectId{
+    
+    width: 70%;
+    height: 30px;
+    font-size: medium;
+    
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    border: 2px solid #007ACC;
+}
+#lableId{
+  color:black;
+
+  letter-spacing: 1px;
+   
+}
+
+.centerHeading{
+    margin: 2%;
+    padding-left: 2%;
+    
+}
+.centerHeading>h1{
+    margin-left: 8%;
+    color: beige;
+}
+
+
+
+.tableDiv2{
+    margin-left: 12%;
+    width: 100%;
+    height: 289px;
+    background-color: #f6e58d;
+    opacity: 0.7;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.tabelTop2{
+    width: 100%;
+    height: 125px;
+    
+}
+#input2{
+    width: 86%;
+    margin-left: 25px;
+    height: 27px;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    border: 2px solid #007ACC;
+    font-size: medium;
+    padding-left: 5px;
+}
+#lableId2{
+    margin-left: 25px;
+
+}
+
+.ButtonDiv{
+    margin: 2% 0% 0% 20%;
+}
+button{
+    width: 11%;
+    height: 30px;
+    margin-right: 2%;
+    background-color: #007ACC;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    
+}
+button:hover{
+    cursor: pointer;
+    background: transparent;
+    border: 2px solid  #007ACC;
+    
+}
+
+.contionDiv{
+   
+    width: 90%;
+    margin-left: 28px;
+    height: 120px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
